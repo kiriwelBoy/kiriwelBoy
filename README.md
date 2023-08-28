@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mamadou Ciré Diallo
 - 👀 I’m interested in Artificial inteligence and Big Data
-- 🌱 I’m currently learning ROS for Robotics Operating Systems
-- 💞️ I’m looking to collaborate on Machine Learning Project or Robotics Project.
+- 🌱 I’m currently learning Prompt Engeniering with ChatGPT
+- 💞️ I’m looking to collaborate on AI Project or Web/Mobile Development.
 - 📫 How to reach me mamadoucirediallo@esp.sn
 
 <!---
