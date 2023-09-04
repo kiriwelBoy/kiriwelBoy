@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mamadou Ciré Diallo
+- 👋 Hi, I’m Mamadou Ciré DIALLO
 - 👀 I’m interested in Artificial inteligence and Big Data
 - 🌱 I’m currently learning Prompt Engeniering with ChatGPT
 - 💞️ I’m looking to collaborate on AI Project or Web/Mobile Development.
